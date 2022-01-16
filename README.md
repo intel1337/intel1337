@@ -1,16 +1,17 @@
-### Hi there 👋
+📧・10ase500enc001eremai1@protonmail.com
+🏴・🇰🇷 x 🇫🇷
+🏛️・14yo
 
-<!--
-**Shz1337/Shz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──(kali@shz1337)-[~]
+└─$>cd socialmedias
 
-Here are some ideas to get you started:
+🕵🏽・Winveer : 1337
+🕵🏽・Winveer : 123
+🔌・TikTok : 0x662
+🔌・TikTok : 0x669
+🔌・TikTok : 4I60
+📀・Discord : 0x$hz#1114
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──(kali@shz1337)-[~]
+└─$>exit
+ 
