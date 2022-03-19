@@ -3,7 +3,7 @@
 🏴・🇰🇷 x 🇫🇷
 🏛️・14yo
 
-┌──(kali@shz1337)-[~]
+┌──(kali@i71337)-[~]
 └─$>cd socialmedias
 
 🕵🏽・Winveer : 1337
@@ -13,6 +13,6 @@
 🔌・TikTok : 4I60
 📀・Discord : >$hz#1337
 
-┌──(kali@shz1337)-[~]
+┌──(kali@i71337)-[~]
 └─$>exit
  
