@@ -10,8 +10,7 @@
 🕵🏽・Winveer : 123
 🔌・TikTok : 0x662
 🔌・TikTok : 0x669
-🔌・TikTok : 4I60
-📀・Discord : >$hz#1337
+📀・Discord : leave#0408
 
 ┌──(kali@i71337)-[~]
 └─$>exit
