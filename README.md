@@ -1,18 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 ```
 📧・10ase500enc001eremai1@protonmail.com
-🏴・🇰🇷 x 🇫🇷
-🏛️・14yo
+🏴・🇰🇷 x 🇵🇱
+🏛️・15yo
 
-┌──(kali@i71337)-[~]
+┌──(kali@🤓)-[~]
 └─$>cd socialmedias
 
 🕵🏽・Winveer : 1337
 🕵🏽・Winveer : 123
-🔌・TikTok : 0x662
+🔌・TikTok : 4i60
 🔌・TikTok : 0x669
-📀・Discord : leave#0408
+📀・Discord : 17
 
-┌──(kali@i71337)-[~]
+┌──(kali@🤓)-[~]
 └─$>exit
  
