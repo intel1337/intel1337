@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 ```
-📧・0x@arx1337.xyz
-🏴・🇰🇷 x 🇵🇱
+📧・Temporary Unavailable
+🏴・🇰🇷 
 🏛️・16yo
 
 ┌──(kali@🤓)-[~]
 └─$>cd socialmedias
 
 🕵🏽・Winveer : 1337
-🕵🏽・Winveer : 123
-🔌・TikTok : ?
-📀・Discord : ####
+🕵🏽・Winveer : Temporary Unavailable
+🔌・TikTok : Temporary Unavailable
+📀・Discord : Temporary Unavailable
 
 /!\ - Many Troll Projects / Templates
 ┌──(kali@🤓)-[~]
