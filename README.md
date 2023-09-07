@@ -1,16 +1,18 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=intel1337)
+```
+📧・0x@arx1337.xyz
+🏴・🇰🇷 x 🇵🇱
+🏛️・16yo
 
-<!--
-**intel1337/intel1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──(kali@🤓)-[~]
+└─$>cd socialmedias
 
-Here are some ideas to get you started:
+🕵🏽・Winveer : 1337
+🕵🏽・Winveer : 123
+🔌・TikTok : ?
+📀・Discord : ####
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/!\ - Many Troll Projects / Templates
+┌──(kali@🤓)-[~]
+└─$>exit
+ 
