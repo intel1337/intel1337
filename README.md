@@ -2,17 +2,29 @@
 ```
 📧・Temporary Unavailable
 🏴・🇰🇷 
-🏛️・16yo
+🏛️・18yo
 
 ┌──(kali@🤓)-[~]
 └─$>cd socialmedias
 
 🕵🏽・Winveer : 1337
-🕵🏽・Winveer : Temporary Unavailable
-🔌・TikTok : Temporary Unavailable
-📀・Discord : Temporary Unavailable
+🕵🏽・Twitter / X : Temporary Unavailable
+🔌・Telegram : Temporary Unavailable
+📀・Discord : 766990219940855808 (ID)
 
-/!\ - Many Troll Projects / Templates
+┌──(kali@🤓)-[~]
+└─$>cd profile -l
+・Python Dev
+・Learning Cybersec'
+・Osint Master
+
+┌──(kali@🤓)-[~]
+└─$>cd goals -l
+・Master C / Cpp
+・Master Web (Backend / Fullstack)
+・Master Cryptography / Steganography
+
+/!\ - Many Sandbox projects
 ┌──(kali@🤓)-[~]
 └─$>exit
  
