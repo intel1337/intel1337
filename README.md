@@ -27,4 +27,5 @@
 /!\ - Many Sandbox projects
 ┌──(kali@🤓)-[~]
 └─$>exit
- 
+```
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intel1337&theme=github_dark)
