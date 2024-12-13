@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intel1337&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ```
 📧・Temporary Unavailable
 🏴・🇰🇷 
