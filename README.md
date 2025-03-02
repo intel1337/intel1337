@@ -46,5 +46,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intel1337&" alt="intel1337" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intel1337&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intel1337&theme=github_dark)
