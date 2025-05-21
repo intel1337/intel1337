@@ -1,33 +1,53 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 
 ```
-📧・Temporary Unavailable
+📧・10ase500enc001eremai1@protonmail.com
 🏴・🇰🇷 
 🏛️・18yo
 
+
+```
+# Web Developer 
+> My Usual Stack
+- NextJS
+- Svelte
+- Express
+- Prisma
+  
+```
 ┌──(kali@🤓)-[~]
 └─$>cd socialmedias
 
 🕵🏽・Winveer : 1337
-🕵🏽・Twitter / X : Temporary Unavailable
+🕵🏽・Twitter / X : 0xRxE
 🔌・Telegram : Temporary Unavailable
 📀・Discord : 766990219940855808 (ID)
+💻・OS : Main : MacOS Sequoia, Secondary : Arch Linux / Kali Linux
+```
+I💗NEXTJS 
+```
 
 ┌──(kali@🤓)-[~]
 └─$>cd profile -l
-・Python Dev
-・Learning Cybersec'
+・Web Dev
+・Learning Trading, Cybersecurity, Mathematics, Low Level Languages
 ・Osint Master
-
+```
+# Goals
+```
 ┌──(kali@🤓)-[~]
 └─$>cd goals -l
-・Master C / Cpp
+・Master CPP and C#
 ・Master Web (Backend / Fullstack)
-・Master Cryptography / Steganography
-
+・Learn Quantic Computing // Cirq (Google Framework)
+・Master Fully Non Unix based Linux system calls ,DevOps,OPsec,Forensic,
 /!\ - Many Sandbox projects
+```
+# Please note that my github is very messy and my best projects will be pinned / recent
+```
+
 ┌──(kali@🤓)-[~]
-└─$>exit
+└─$>sudo rm -rf --one-file-system --preserve-root /*
 ```
 
 
