@@ -1,11 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
+# Welcome to my profile visitor@kali-$_
 
 ```
 📧・10ase500enc001eremai1@protonmail.com
 🏴・🇰🇷 
 🏛️・18yo
-
-
 ```
 # Web Developer 
 > My Usual Stack
