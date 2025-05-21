@@ -5,14 +5,16 @@
 📧・10ase500enc001eremai1@protonmail.com
 🏴・🇰🇷 
 🏛️・18yo
+📍・France
+🎓・B+2 soon Master
 ```
 # Web Developer 
-> My Usual Stack
+> My Usual Stack 😮‍💨
+> I💗NEXTJS 
 - NextJS
 - Svelte
 - Express
 - Prisma
-  
 ```
 ┌──(kali@🤓)-[~]
 └─$>cd socialmedias
@@ -23,7 +25,6 @@
 📀・Discord : 766990219940855808 (ID)
 💻・OS : Main : MacOS Sequoia, Secondary : Arch Linux / Kali Linux
 ```
-I💗NEXTJS 
 ```
 
 ┌──(kali@🤓)-[~]
