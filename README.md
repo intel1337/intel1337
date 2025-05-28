@@ -1,12 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 # Welcome to my profile visitor@kali-$_
+My Company : https://aetherweb.dev
 
 ```
 📧・10ase500enc001eremai1@protonmail.com
 🏴・🇰🇷 
 🏛️・18yo
 📍・France
-🎓・B+2 soon Master
+🎓・Degree : B+2 going for Master IT
+📋・Student at laplateforme.io
+📁・Freelance 
 ```
 # Web Developer 
 > My Usual Stack 😮‍💨
