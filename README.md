@@ -16,7 +16,7 @@ My Company : https://aetherweb.dev
 > I💗NEXTJS 
 - NextJS
 - Svelte
-- Express
+- Express / ASP.net 
 - Prisma
 ```
 ┌──(kali@🤓)-[~]
