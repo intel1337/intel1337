@@ -60,12 +60,21 @@ in Web & Web Mobile developpement
 - Osint Master, Ctf Enjoyer
 - Designer, Software Engineer, Trader, Commercial & AD Manager
 ```
-# Goals
+
 ```
+# Goals
 ```
 ┌──(kali@🤓)-[~]
 └─$>cd goals -l
 ```
+## What YOU can do to help !
+- If you're working in it and you're interested about my profile, Please come up to me
+i'm looking for some Enterprise Experience, i'll be glad to work on startups or maintaining projects
+- If you're a regular Dev, Please submit issues, Pr and fork my projects so i can learn from my past mistakes.
+- If you're a Teacher / School / Student and want (to or not) Help, i'll be glad to help you with your requests
+and introduce people to code / you to code, being part time teacher even tho i'm young would be a great experience for me
+
+## Self Goals
 - Master C++ and Rust
 - Master Web (Backend / Fullstack / Devops)
 - Learn Quantic Computing // Cirq (Google Framework)
