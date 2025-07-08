@@ -3,17 +3,36 @@
 My Enterprise / Portfolio : https://aetherweb.dev
 
 ## About Me
-📦 : 18yo
+- 📦 : 18yo
 ### 🕰️ : Dev Since my 7years old, Started with Bash
-📍・France
-🎓・Degree : B+2 going for Master IT
-📋・Student at laplateforme.io
-📁・Freelance 
+- 📍・France
+- 🎓・Degree : B+2 going for Master IT
+- 📋・Student at laplateforme.io
+- 📁・Freelance 
 
-Student : taiyang.baluc@laplateforme.io
-Pro : contact@aetherweb.dev
-Personal : 📧・10ase500enc001eremai1@protonmail.com
-Languages : 🇫🇷/🇬🇧/🇰🇷 
+- Student : taiyang.baluc@laplateforme.io
+- Pro : contact@aetherweb.dev
+- Personal : 📧・10ase500enc001eremai1@protonmail.com
+- Languages : 🇫🇷/🇬🇧/🇰🇷
+
+# Certificates and Graduates
+
+### DWWM - RNCP 5 (Baccalaureate +2)
+- 2-year technical degree / Associate degree
+in Web & Web Mobile developpement
+> 2024 - 2025
+### Master Of Science Web Ingeneering  - RNCP 7 (Baccalaureate +5)
+- Master in Web Ingeneering, including Devops, cloud deployments, Code reviews, Orchestration, Conception of Complex Infrastructures
+> 2025 - 2027 (CURRENT)
+
+# My Story
+Started as a low level scripter, playing around with bash, VB script and BatchFile since my early 7years old,
+Then discovered Javascript ES5 around 2015 - 2016, Started my Cybersecurity afterwards around 2019,
+Hanged to Kali Linux and Doing Ctf's at 14 years old on Root-me.org
+then Went Back to low Level coding with C & Cpp .net around 2023,
+Then Came back To web developpement after all these years.
+furthermore traded crypto on Binance and held many fundings in crypto then selled in 2025 around 5-7k unrealised PnL
+
 
 # Web Developer 
 ## My Latest Project  
