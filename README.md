@@ -19,8 +19,9 @@ Languages : 🇫🇷/🇬🇧/🇰🇷
 ## [Check on GitHub](https://github.com/intel1337/viber)
 <img width="1269" alt="image" src="https://github.com/user-attachments/assets/0129e99f-039d-470e-9fcf-e01c998ba649" />
 
-```
 
+> Socials :
+```
 ┌──(kali@🤓)-[~]
 └─$>cd socialmedias
 
