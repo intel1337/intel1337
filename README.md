@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 # Welcome to my profile visitor@kali-$_
+## Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
+
 My Enterprise / Portfolio : https://aetherweb.dev
-Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
 
 ## About Me
 - 📦 : 18yo
