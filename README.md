@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 # Welcome to my profile visitor@kali-$_
-My Company : https://aetherweb.dev
+My Enterprise / Portfolio : https://aetherweb.dev
 
 ## About Me
 📦 : 18yo
