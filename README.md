@@ -4,7 +4,7 @@ My Enterprise / Portfolio : https://aetherweb.dev
 
 ## About Me
 📦 : 18yo
-🕰️ : Dev Since my 7years old, Started with Bash
+### 🕰️ : Dev Since my 7years old, Started with Bash
 📍・France
 🎓・Degree : B+2 going for Master IT
 📋・Student at laplateforme.io
