@@ -4,6 +4,7 @@ My Enterprise / Portfolio : https://aetherweb.dev
 
 ## About Me
 📦 : 18yo
+🕰️ : Dev Since my 7years old, Started with Bash
 📍・France
 🎓・Degree : B+2 going for Master IT
 📋・Student at laplateforme.io
@@ -34,10 +35,10 @@ Languages : 🇫🇷/🇬🇧/🇰🇷
 ┌──(kali@🤓)-[~]
 └─$>cd profile -l
 ```
-・Web Dev, FullStack since 2023
-・Learning Trading, Cybersecurity, Mathematics, Low Level Languages
-・Osint Master, Ctf Enjoyer
-・Designer, Software Engineer, Trader, Commercial & AD Manager
+- Web Dev, FullStack since 2023
+- Learning Trading, Cybersecurity, Mathematics, Low Level Languages
+- Osint Master, Ctf Enjoyer
+- Designer, Software Engineer, Trader, Commercial & AD Manager
 ```
 # Goals
 ```
@@ -45,11 +46,11 @@ Languages : 🇫🇷/🇬🇧/🇰🇷
 ┌──(kali@🤓)-[~]
 └─$>cd goals -l
 ```
-・Master C++ and Rust
-・Master Web (Backend / Fullstack / Devops)
-・Learn Quantic Computing // Cirq (Google Framework)
-・Learn Embedded Systems, Qemu, Renode
-・Master Fully Non Unix based Linux system calls (OpenBSD), DevOps , OPsec, Forensic,
+- Master C++ and Rust
+- Master Web (Backend / Fullstack / Devops)
+- Learn Quantic Computing // Cirq (Google Framework)
+- Learn Embedded Systems, Qemu, Renode
+- Master Fully Non Unix based Linux system calls (OpenBSD), DevOps , OPsec, Forensic,
 
 # Please note that my github is very messy archived projects are discontinued.
 ```
