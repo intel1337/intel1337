@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
 # Welcome to my profile visitor@kali-$_
 My Enterprise / Portfolio : https://aetherweb.dev
+Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
 
 ## About Me
 - 📦 : 18yo
@@ -26,12 +27,12 @@ in Web & Web Mobile developpement
 > 2025 - 2027 (CURRENT)
 
 # My Story
-Started as a low level scripter, playing around with bash, VB script and BatchFile since my early 7years old,
-Then discovered Javascript ES5 around 2015 - 2016, Started my Cybersecurity afterwards around 2019,
-Hanged to Kali Linux and Doing Ctf's at 14 years old on Root-me.org
-then Went Back to low Level coding with C & Cpp .net around 2023,
-Then Came back To web developpement after all these years.
-furthermore traded crypto on Binance and held many fundings in crypto then selled in 2025 around 5-7k unrealised PnL
+- Started as a low level scripter, playing around with bash, VB script and BatchFile since my early 7years old,
+- Then discovered Javascript ES5 around 2015 - 2016, Started my Cybersecurity afterwards around 2019,
+- Hanged to Kali Linux and Doing Ctf's at 14 years old on Root-me.org
+- then Went Back to low Level coding with C & Cpp .net around 2023,
+- Then Came back To web developpement after all these years.
+- furthermore traded crypto on Binance and held many fundings in crypto then selled in 2025 around 5-7k unrealised PnL
 
 
 # Web Developer 
