@@ -2,15 +2,18 @@
 # Welcome to my profile visitor@kali-$_
 My Company : https://aetherweb.dev
 
-```
-📧・10ase500enc001eremai1@protonmail.com
-🏴・🇰🇷 
-🏛️・18yo
+## About Me
+📦 : 18yo
 📍・France
 🎓・Degree : B+2 going for Master IT
 📋・Student at laplateforme.io
 📁・Freelance 
-```
+
+Student : taiyang.baluc@laplateforme.io
+Pro : contact@aetherweb.dev
+Personal : 📧・10ase500enc001eremai1@protonmail.com
+Languages : 🇫🇷/🇬🇧/🇰🇷 
+
 # Web Developer 
 ## My Latest Project  
 [Check on GitHub](https://github.com/intel1337/viber)
@@ -29,20 +32,24 @@ My Company : https://aetherweb.dev
 ```
 ┌──(kali@🤓)-[~]
 └─$>cd profile -l
-・Web Dev
+```
+・Web Dev, FullStack since 2023
 ・Learning Trading, Cybersecurity, Mathematics, Low Level Languages
-・Osint Master
+・Osint Master, Ctf Enjoyer
+・Designer, Software Engineer, Trader, Commercial & AD Manager
 ```
 # Goals
 ```
+```
 ┌──(kali@🤓)-[~]
 └─$>cd goals -l
-・Master CPP and C#
-・Master Web (Backend / Fullstack)
-・Learn Quantic Computing // Cirq (Google Framework)
-・Master Fully Non Unix based Linux system calls ,DevOps,OPsec,Forensic,
-/!\ - Many Sandbox projects
 ```
+・Master C++ and Rust
+・Master Web (Backend / Fullstack / Devops)
+・Learn Quantic Computing // Cirq (Google Framework)
+・Learn Embedded Systems, Qemu, Renode
+・Master Fully Non Unix based Linux system calls (OpenBSD), DevOps , OPsec, Forensic,
+
 # Please note that my github is very messy archived projects are discontinued.
 ```
 ┌──(kali@🤓)-[~]
