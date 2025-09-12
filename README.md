@@ -54,8 +54,9 @@ in Web & Web Mobile developpement
 
 # Web Developer 
 ## My Latest Project  
-## [Check on GitHub](https://github.com/intel1337/viber)
-<img width="1269" alt="image" src="https://github.com/user-attachments/assets/0129e99f-039d-470e-9fcf-e01c998ba649" />
+## [Check on Web](https://cashyn.cc)
+<img width="1431" height="732" alt="image" src="https://github.com/user-attachments/assets/1289bcfe-ac72-4bb9-8c7d-e77abc42a05f" />
+
 
 
 > Socials :
@@ -72,7 +73,7 @@ in Web & Web Mobile developpement
 ┌──(kali@🤓)-[~]
 └─$>cd profile -l
 ```
-- Web Dev, FullStack since 2023
+- Web Dev, FullStack since 2022
 - Learning Trading, Cybersecurity, Mathematics, Low Level Languages
 - Osint Master, Ctf Enjoyer
 - Designer, Software Engineer, Trader, Commercial & AD Manager
