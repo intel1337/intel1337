@@ -25,7 +25,14 @@ in Web & Web Mobile developpement
 > 2024 - 2025
 ### Master Of Science Web Ingeneering  - RNCP 7 (Baccalaureate +5)
 - Master in Web Ingeneering, including Devops, cloud deployments, Code reviews, Orchestration, Conception of Complex Infrastructures
-> 2025 - 2027 (CURRENT)
+> 2025 - 2027 (Cancelled due to no internship found)
+### 42 School - Piscine
+- Entry test to 42 during 1 month only code, got kicked for supposedely cheating, actual reason is staff knowledge quality ball.
+> 2025
+### Iscod RNCP 6 (Baccalaureate +3)
+- CDA (Application conception and developpement) in Web Ingeneering, including Devops, Code reviews, Conception of Web Infrastructures
+
+> 2025 - 2027 
 
 # My Story
 - Started as a low level scripter, playing around with bash, VB script and BatchFile since my early 7years old,
