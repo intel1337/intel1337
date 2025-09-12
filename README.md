@@ -54,7 +54,7 @@ in Web & Web Mobile developpement
 
 # Web Developer 
 ## My Latest Project  
-## [Check on Web](https://cashyn.cc)
+## [Checkout Cashyn AI Cutting Edge](https://cashyn.cc)
 <img width="1431" height="732" alt="image" src="https://github.com/user-attachments/assets/1289bcfe-ac72-4bb9-8c7d-e77abc42a05f" />
 
 
