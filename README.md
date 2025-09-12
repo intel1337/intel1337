@@ -31,8 +31,17 @@ in Web & Web Mobile developpement
 > 2025
 ### Iscod RNCP 6 (Baccalaureate +3)
 - CDA (Application conception and developpement) in Web Ingeneering, including Devops, Code reviews, Conception of Web Infrastructures
+> 2025 - 2027
 
-> 2025 - 2027 
+# Experience 
+### Intersnhips : 
+- CMS / CRM Developpement and maintenance
+- Website Delegation and architecture engineering
+
+### Freelance (2years) 
+- Static Websites for e-shops, Artists and House Renters
+- AI startup, LLM with python, Website developpement, AI Architecture, Optimisation
+- SaAs, Currently working on cashyn.cc, AI & Complex Prediction algorithms, Web Infrastructure and billings, Auth And Security Check
 
 # My Story
 - Started as a low level scripter, playing around with bash, VB script and BatchFile since my early 7years old,
