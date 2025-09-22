@@ -112,6 +112,8 @@ and introduce people to code / you to code, being part time teacher even tho i'm
     <br/
 </div>
 
+![Best Project](https://github-readme-stats.vercel.app/api/pin/?username=intel1337&repo=librescript)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intel1337&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intel1337&show_icons=true&locale=en" alt="intel1337" /></p>
