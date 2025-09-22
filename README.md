@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
-# Welcome to my profile visitor@kali-$_
+#  ![](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile&font=Fira%20Code¢er=true&width=380&height=50)
 ## Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
 
 My Enterprise / Portfolio : https://aetherweb.dev
@@ -112,7 +112,7 @@ and introduce people to code / you to code, being part time teacher even tho i'm
     <br/
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intel1337&show_icons=true&locale=en&layout=compact" alt="intel1337" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intel1337&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intel1337&show_icons=true&locale=en" alt="intel1337" /></p>
 
