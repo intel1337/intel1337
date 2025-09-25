@@ -8,7 +8,7 @@ My Enterprise / Portfolio : https://aetherweb.dev
 - 📦 : 18yo
 ### 🕰️ : Dev Since my 7years old, Started with Bash
 - 📍・France
-- 🎓・Degree : B+2 going for B+3 
+- 🎓・Degree : B+2 going for B+5
 - 📋・Student at laplateforme.io
 - 📁・Freelance 
 
@@ -29,9 +29,7 @@ in Web & Web Mobile developpement
 ### 42 School (Epitech Direct Concurrent) - Piscine
 - Entry test to 42 during 1 month only code, got kicked for supposedely cheating, actual reason is staff limited knowledge, Skills and Reasoning, Even with every proof put to them they still denied my skills, taking it as a compliment ^^.
 > 2025
-### Iscod Web Architectures and Softwares - RNCP 6 (Baccalaureate +3)
-- CDA (Application conception and developpement) in Web Ingeneering, including Devops, Code reviews, Conception of Web Infrastructures
-> 2025 - 2027
+
 
 # Experience 
 ### Intersnhips : 
