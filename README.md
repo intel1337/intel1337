@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=intel1337)
-#  ![](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile&font=Fira%20Code¢er=true&width=380&height=50)
+
 ## Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
 
 My Enterprise / Portfolio : https://aetherweb.dev
