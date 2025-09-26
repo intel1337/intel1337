@@ -3,8 +3,8 @@
 ## Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
 
 # About Me
-- 📦 : 18yo
 ## 🕰️ : Dev Since my 7years old, Started with Bash
+- 📦 : 18yo
 - 📍・France
 - 🎓・Degree : B+2 going for B+5 (Master equivalent)
 - 📋・Student at laplateforme.io
