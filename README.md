@@ -2,19 +2,17 @@
 
 ## Please read this README Closely, i put a lot of effort in it, and you'll know everything you need to know about me, whether you're a client, hirer, student, or teacher / else.
 
-My Enterprise / Portfolio : https://aetherweb.dev
-
-## About Me
+# About Me
 - 📦 : 18yo
-### 🕰️ : Dev Since my 7years old, Started with Bash
+## 🕰️ : Dev Since my 7years old, Started with Bash
 - 📍・France
-- 🎓・Degree : B+2 going for B+5
+- 🎓・Degree : B+2 going for B+5 (Master equivalent)
 - 📋・Student at laplateforme.io
-- 📁・Freelance 
+- 📁・Freelance / Student
 
 - Student : taiyang.baluc@laplateforme.io
-- Pro : contact@aetherweb.dev
-- Personal : 📧・10ase500enc001eremai1@protonmail.com
+- Pro : 📧・10ase500enc001eremai1@protonmail.com
+- Personal : 0xhex4@gmail.com
 - Languages : 🇫🇷/🇬🇧/🇰🇷
 
 # Certificates and Graduates
@@ -23,12 +21,13 @@ My Enterprise / Portfolio : https://aetherweb.dev
 - 2-year technical degree / Associate degree
 in Web & Web Mobile developpement
 > 2024 - 2025
+### 42 School (Epitech Direct Concurrent) - Piscine
+- Entry test to 42 during 1 month only code, got kicked for supposedely cheating, actual reason is staff limited  skill, Even with every proof put to them they still denied my skills.
+> 2025
 ### Master Of Science Web Ingeneering  - RNCP 7 (Baccalaureate +5)
 - Master in Web Ingeneering, including Devops, cloud deployments, Code reviews, Orchestration, Conception of Complex Infrastructures
 > 2025 - 2027 Current
-### 42 School (Epitech Direct Concurrent) - Piscine
-- Entry test to 42 during 1 month only code, got kicked for supposedely cheating, actual reason is staff limited knowledge, Skills and Reasoning, Even with every proof put to them they still denied my skills, taking it as a compliment ^^.
-> 2025
+
 
 
 # Experience 
@@ -56,28 +55,12 @@ in Web & Web Mobile developpement
 <img width="1431" height="732" alt="image" src="https://github.com/user-attachments/assets/1289bcfe-ac72-4bb9-8c7d-e77abc42a05f" />
 
 
-
-> Socials :
-```
-┌──(kali@🤓)-[~]
-└─$>cd socialmedias
-
-🕵🏽・Twitter / X : 0xRxE
-🔌・Telegram : Temporary Unavailable
-📀・Discord : 766990219940855808 (ID)
-💻・OS : Main : MacOS Sequoia, Secondary : Arch Linux / Kali Linux
-```
-```
-┌──(kali@🤓)-[~]
-└─$>cd profile -l
-```
 - Web Dev, FullStack since 2022
 - Learning Trading, Cybersecurity, Mathematics, Low Level Languages
 - Osint Master, Ctf Enjoyer
 - Designer, Software Engineer, Trader, Commercial & AD Manager
-```
-
-```
+- AI Enjoyer, For use and developpement
+  
 # Goals
 ```
 ┌──(kali@🤓)-[~]
